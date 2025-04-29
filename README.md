@@ -1,5 +1,6 @@
 # 🧠 Semantic Text Similarity API 
 Deployed Link on Render : [https://similaritytextscorerender.onrender.com/](https://similaritytextscorerender.onrender.com/)
+
 A lightweight Flask-based REST API that computes the **semantic similarity** between two text inputs using a pre-trained SentenceTransformer model (`paraphrase-MiniLM-L3-v2`). 
 
 This API returns a score between `0` and `1`, where:
