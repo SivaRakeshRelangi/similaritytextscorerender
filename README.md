@@ -52,7 +52,7 @@ Use POST Method and ENDPOINT API --> https://similaritytextscorerender.onrender.
 
 
 
-## How to use API Just follow these Steps
+## How to use API Locally Just follow these Steps
  #### Download files app.py and requirements.txt
 ## Setup Instructions
 1. **Set Up Virtual Environment**:
