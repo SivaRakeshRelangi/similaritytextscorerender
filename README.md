@@ -12,9 +12,8 @@ This API returns a score between `0` and `1`, where:
 ## 🚀 Live API Link
 
 > 🔗 [https://similaritytextscorerender.onrender.com/predict](https://similaritytextscorerender.onrender.com/predict)
-
 ---
-
+![ifwegiveText1andtext2wewillgettheScore](APIscoretest.png)
 ## 📦 Features
 
 - ✅ Semantic similarity using Sentence-BERT
