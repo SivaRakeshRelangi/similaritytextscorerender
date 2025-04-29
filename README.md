@@ -1,3 +1,4 @@
+**Important Note:** The deployed link may be in a sleeping state on the Render platform. Please allow up to 5 minutes for the server to "wake up" and become fully operational when the link is accessed.
 # 🧠 Semantic Text Similarity API 
 Deployed Link on Render : [https://similaritytextscorerender.onrender.com/](https://similaritytextscorerender.onrender.com/)
 
